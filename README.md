@@ -1,5 +1,6 @@
 # Insurance Pricing Hackathon Project
 **3rd place overall (out of 25 teams) and 1st place in prediction task**
+
 This repository contains a team machine learning project developed during a data science hackathon, focused on predicting insurance prices and analyzing competitor pricing strategies. 
 
 ## Project Goals
